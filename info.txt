@@ -1,1 +1,3 @@
 file:///C:/projekty/grzesiek/githubprojects/grzesiek42.github.io/maraton/index.html
+https://grzesiek42.github.io/maraton
+https://grzesiek43.github.io/grzesiek42.github.io/maraton
